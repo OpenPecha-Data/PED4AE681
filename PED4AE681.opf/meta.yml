@@ -1,0 +1,13 @@
+id: PED4AE681
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,07: Muktaka'
+  language: bo
+  volumes:
+    4c671fde774443c889088bed530f595f:
+      title: Muktaka
+      base_file: Muktaka.txt
+      work_id: WA9C4B4AD
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:56:32.233837'
+last_modified_at: '2022-03-01T22:56:32.233844'
